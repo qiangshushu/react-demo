@@ -1,0 +1,114 @@
+import React from 'react';
+import ScrollToTopOnMount from '../tools/ScrollToTopOnMount';
+
+class About extends React.Component {
+  render() {
+    return (
+      <div>
+        <ScrollToTopOnMount />
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+        <h1>about</h1>
+      </div>
+    );
+  }
+}
+
+export default About;
